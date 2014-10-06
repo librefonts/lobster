@@ -1,0 +1,134 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Lobster
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 by Pablo Impallari. www.impallari.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.004
+    Vendor: Pablo Impallari. www.impallari.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 652
+    Character count: 347
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Lobster
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 by Pablo Impallari. www.impallari.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.004
+    Vendor: Pablo Impallari. www.impallari.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 649
+    Character count: 347
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Lobster
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010 by Pablo Impallari. www.impallari.com. All rights reserved.
+    License: Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.004
+    Vendor: Pablo Impallari. www.impallari.com
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 652
+    Character count: 347
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
